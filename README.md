@@ -1,4 +1,4 @@
-# LabML — laboratório de Aprendizado de Máquina com tutor de IA socrático
+# LabML — Laboratório de Aprendizado de Máquina com tutor de IA socrático
 
 Material de apoio ao projeto **LabML**, um protótipo funcional que permite experimentar algoritmos de aprendizado de máquina no navegador, com um tutor de IA que conduz o aluno por perguntas sem entregar respostas diretamente.
 
