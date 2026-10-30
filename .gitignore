@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+*.egg-info/
+*.sqlite3
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+.env.local
+.env*.local
+*.tsbuildinfo
+
+# Claude Code
+.claude/
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db

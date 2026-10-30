@@ -1,0 +1,32 @@
+LabML - Source-Available, View-Only License
+
+Copyright (c) 2026 [COMPLETAR: nome do(a) titular / equipe]. All rights reserved.
+
+Licenca de visualizacao (somente leitura) / View-only license.
+
+1. PERMITTED. You may view and read the files in this repository, and cite the
+   accompanying reports (whitepaper and documentation) with proper attribution
+   (author, title, repository URL).
+
+2. NOT PERMITTED without prior written permission from the copyright holder:
+   a) copying, reproducing, or redistributing the source code, in whole or in part;
+   b) modifying the code or creating derivative works;
+   c) running, deploying, or hosting the software (other than any public demo
+      provided by the copyright holder);
+   d) using the code, models, prompts, or datasets for commercial purposes;
+   e) using the code or contents to train machine-learning models;
+   f) sublicensing, selling, or otherwise transferring any rights.
+
+3. NO OTHER RIGHTS. No license or right is granted by implication or estoppel.
+   The act of publishing this repository does not place it in the public domain
+   or under an open-source license.
+
+4. NO WARRANTY. The software and documentation are provided "AS IS", without
+   warranty of any kind, express or implied. In no event shall the copyright
+   holder be liable for any claim, damages, or other liability arising from the
+   use of the material.
+
+5. THIRD-PARTY COMPONENTS (e.g., Django, scikit-learn, Next.js) remain under
+   their own licenses, which are not affected by this file.
+
+Permission requests / Contato: [COMPLETAR: vidya.araujo7@gmail.com]
